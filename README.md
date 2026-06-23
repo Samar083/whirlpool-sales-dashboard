@@ -22,4 +22,5 @@ Interactive sales dashboard built in Power BI analyzing Whirlpool's sales data.
 - Data Modeling
 
 ## Screenshot
-![Dashboard](<img width="609" height="344" alt="Screenshot 2026-06-24 014732" src="https://github.com/user-attachments/assets/e6d31208-16e7-4459-8ce7-001d5d8900d0" />)
+<img width="609" height="344" alt="Screenshot 2026-06-24 014732" src="https://github.com/user-attachments/assets/e393c4ab-c221-4fc1-ac11-6384d8c87d9c" />
+
